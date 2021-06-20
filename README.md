@@ -1,5 +1,5 @@
 # Simple image to speech app
- Simple image to speech app implemented with the IBM Watson™ Text to Speech API and OCR.space Free OCR API.
+ An image to speech app implemented with the IBM Watson™ Text to Speech API and OCR.space Free OCR API.
 
 ## Table of contents
 * [Build process](#build-process)
@@ -152,7 +152,7 @@ Choose language -> Upload Photo ->  Optical Character Recognition  ->  Text-to-S
 
   * Testing English text with camera:
   
-    
+    https://user-images.githubusercontent.com/34962951/122670894-d7589980-d1f6-11eb-8b4a-843fc6077aa7.mp4
 
 
 ## Reference
