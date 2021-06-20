@@ -155,7 +155,7 @@ Choose language -> Upload Photo ->  Optical Character Recognition  ->  Text-to-S
 
   * Testing English text with camera:
     
-    https://user-images.githubusercontent.com/34962951/122670894-d7589980-d1f6-11eb-8b4a-843fc6077aa7.mp4
+    https://user-images.githubusercontent.com/34962951/122671924-741d3600-d1fb-11eb-9a2f-24b8242e350a.mp4
 
 ## Reference
  1. [IBM Watsons Service](https://cloud.ibm.com/apidocs/text-to-speech)
