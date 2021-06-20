@@ -162,7 +162,10 @@ Choose language -> Upload Photo ->  Optical Character Recognition  ->  Text-to-S
     
  2. [OCR.space Free OCR API](https://ocr.space/OCRAPI)
 
- 3. Testing Image :
+ 3. [Kivy](https://kivy.org/doc/stable/index.html)
+
+ 4. Testing Image :
     * https://wkee.net/post/studying-high-definition-maps-to-help-historical-research-ji-yang-s-comments-on-chen-jing-s-arti.html
     * https://www.ettoday.net/news/20160214/622569.htm
     * https://www.niemanlab.org/2016/02/en-espanol-the-new-york-times-launches-a-spanish-language-news-site-aiming-south-of-the-border/
+  
