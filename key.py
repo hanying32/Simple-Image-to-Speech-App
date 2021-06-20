@@ -1,0 +1,2 @@
+OCR_KEY=""
+TTS_KEY=''
