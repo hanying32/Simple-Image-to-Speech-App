@@ -109,8 +109,6 @@ Choose language -> Upload Photo ->  Optical Character Recognition  ->  Text-to-S
  
     There will be buttons on the screen for you to play the generated audio files. But If there're no audio files generated, the screen will show up with the text "No Output Files". 
  
-    ![no_output](https://user-images.githubusercontent.com/34962951/122671563-e55be980-d1f9-11eb-8cca-f60ca09415e6.JPG)
- 
 ## Results
 
 * Initial Screen:
@@ -132,8 +130,12 @@ Choose language -> Upload Photo ->  Optical Character Recognition  ->  Text-to-S
     ![tempsnip](https://user-images.githubusercontent.com/34962951/122668191-90b07280-d1e9-11eb-823b-c7a29532ac3e.png)
 
 * Final Result:
-    ![final](https://user-images.githubusercontent.com/34962951/122667770-239bdd80-d1e7-11eb-965e-2cb8a1ccc46f.JPG)
 
+    * Successful:
+      ![final](https://user-images.githubusercontent.com/34962951/122667770-239bdd80-d1e7-11eb-965e-2cb8a1ccc46f.JPG)
+
+    * No detected text:
+      ![no_output](https://user-images.githubusercontent.com/34962951/122671563-e55be980-d1f9-11eb-8cca-f60ca09415e6.JPG)
 
 
 * Demo video:
