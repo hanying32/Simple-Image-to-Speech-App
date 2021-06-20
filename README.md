@@ -102,36 +102,37 @@ Choose language -> Upload Photo ->  Optical Character Recognition  ->  Text-to-S
     ```
 * __Text-to-Speech__
 
-    IBM Watson™ Text to Speech API does the job for turning text in to speech, which generates an audio file as the output. The output files are saved in the folder ( ex : project's path/save/audio/ ) and the files will be named by the image name( ex : IMG_0.jpg -> audio0.wav ). There are several voices for each language in the IBM service, and I've set them to the ones I prefer. The audio files format I use is '.wav', you can change them to different format too.
+    IBM Watson™ Text to Speech API does the job for turning text in to speech, which generates an audio file as the output. The output files are saved in the folder ( ex : project's path/save/audio/ ) and the files will be named by the image name( ex : IMG_0.jpg -> audio0.wav ). There are several voices for each language in the IBM service, and I've set them to the ones I prefer. The default audio files format is '.wav', you can change them to different format too.
 
 
  * __Play Audio Files__
  
     There will be buttons on the screen for you to play the generated audio files. But If there're no audio files generated, the screen will show up with the text "No Output Files". 
  
+    ![no_output](https://user-images.githubusercontent.com/34962951/122671563-e55be980-d1f9-11eb-8cca-f60ca09415e6.JPG)
  
 ## Results
 
 * Initial Screen:
 
-  ![startscreen](https://user-images.githubusercontent.com/34962951/122667781-2dbddc00-d1e7-11eb-8836-908e2f65c0d6.JPG)
+    ![startscreen](https://user-images.githubusercontent.com/34962951/122667781-2dbddc00-d1e7-11eb-8836-908e2f65c0d6.JPG)
 
 * Language Selection:
 
-  ![language](https://user-images.githubusercontent.com/34962951/122667773-2696ce00-d1e7-11eb-9896-06aca5ccac17.JPG)
+    ![language](https://user-images.githubusercontent.com/34962951/122667773-2696ce00-d1e7-11eb-9896-06aca5ccac17.JPG)
 
 * File Chooser: 
 
   _The file which is  being selected will show up on the right window._
     
-  ![preview](https://user-images.githubusercontent.com/34962951/122667779-2ac2eb80-d1e7-11eb-87f8-e71fc4d1542f.JPG)
+    ![preview](https://user-images.githubusercontent.com/34962951/122667779-2ac2eb80-d1e7-11eb-87f8-e71fc4d1542f.JPG)
     
 * Camera Screen:
     
-  ![tempsnip](https://user-images.githubusercontent.com/34962951/122668191-90b07280-d1e9-11eb-823b-c7a29532ac3e.png)
+    ![tempsnip](https://user-images.githubusercontent.com/34962951/122668191-90b07280-d1e9-11eb-823b-c7a29532ac3e.png)
 
 * Final Result:
-  ![final](https://user-images.githubusercontent.com/34962951/122667770-239bdd80-d1e7-11eb-965e-2cb8a1ccc46f.JPG)
+    ![final](https://user-images.githubusercontent.com/34962951/122667770-239bdd80-d1e7-11eb-965e-2cb8a1ccc46f.JPG)
 
 
 
